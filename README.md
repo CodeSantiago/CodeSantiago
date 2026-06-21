@@ -10,10 +10,9 @@ Self-taught.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Pilar%20Desarrollo-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=D4845A)](https://YOUR_PILAR_DESARROLLO_SITE)
-[![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-22C55E?style=for-the-badge)](mailto:YOUR_EMAIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+
+
 
 
 </div>

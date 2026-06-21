@@ -41,25 +41,4 @@ CLI           Opencode
 
 <br/>
 
-### GitHub Stats
 
-<p align="center">
-  
-</p>
-<p align="center">
-  
-
-</p>
-
-<br/>
-
-<div align="center">
-
-
-
-<br/><br/>
-
-
-[![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-22C55E?style=for-the-badge)](mailto:YOUR_EMAIL)
-
-</div>

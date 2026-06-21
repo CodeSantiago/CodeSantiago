@@ -36,6 +36,7 @@ Data          PostgreSQL · Redis
 Frontend      React · Vite · JavaScript
 AI / LLM      OpenRouter · Whisper (Groq) · Prompt Engineering
 Infra         Docker · Railway · Hetzner · Linux
+CLI           Opencode
 ```
 
 <br/>

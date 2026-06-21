@@ -46,8 +46,8 @@ Infra         Docker · Railway · Hetzner · Linux
   
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark_dimmed&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" height="165"/>
+  
+
 </p>
 
 <br/>

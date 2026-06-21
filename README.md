@@ -2,7 +2,7 @@
 
 # Santi
 
-**Backend Developer (Python/FastAPI) · Building Kore Agent**
+**Python AI Engineer(Python/FastAPI) · Building Kore Agent**
 
 Self-taught.
 

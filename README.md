@@ -55,11 +55,11 @@ Infra         Docker · Railway · Hetzner · Linux
 
 <div align="center">
 
-<sub><i>I'd rather ship something small than perfect something invisible.</i></sub>
+
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Pilar%20Desarrollo-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=D4845A)](https://YOUR_PILAR_DESARROLLO_SITE)
+
 [![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-22C55E?style=for-the-badge)](mailto:YOUR_EMAIL)
 
 </div>

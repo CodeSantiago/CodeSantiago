@@ -1,4 +1,4 @@
-<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/73d85d6f-63a4-4844-94ad-7d8a493538ad" /><div align="center">
+
 
 # Santi
 

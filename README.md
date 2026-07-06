@@ -23,7 +23,7 @@ Self-taught.
 
 | Project | Stack | What it does |
 |---|---|---|
-| **Kore Agent** | FastAPI · PostgreSQL · Redis · React/Vite · OpenRouter | Multi-tenant SaaS platform for LLM-powered WhatsApp/Telegram bots. Vertical presets, composable behavior modules, JWT auth. |
+| **Scheduling Agent** | FastAPI · PostgreSQL · Redis · React/Vite · OpenRouter | Multi-tenant SaaS platform for LLM-powered WhatsApp/Telegram bots. Vertical presets, composable behavior modules, JWT auth. |
 | **WhatsApp Scheduling Bot** | Python · Redis ·                          | Production bot for a barbershop. |
 
 <br/>

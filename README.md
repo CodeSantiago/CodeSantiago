@@ -1,10 +1,10 @@
-<div align="center">
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/73d85d6f-63a4-4844-94ad-7d8a493538ad" /><div align="center">
 
 # Santi
 
-**Python AI Engineer(Python/FastAPI) · Building Scheduling Agent**
+**Python Backend Developer · AI Automation(Python/FastAPI) · Building Scheduling Agent**
 
-Self-taught.
+Computer Science student. Self-taught builder..
 
 <sub>🇦🇷 ARGENTINA · REMOTE-FRIENDLY · OPEN TO BACKEND ROLES</sub>
 

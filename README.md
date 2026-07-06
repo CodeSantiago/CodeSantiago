@@ -2,7 +2,7 @@
 
 # Santi
 
-**Python AI Engineer(Python/FastAPI) · Building Kore Agent**
+**Python AI Engineer(Python/FastAPI) · Building Scheduling Agent**
 
 Self-taught.
 
